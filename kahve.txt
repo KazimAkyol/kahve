@@ -9,4 +9,4 @@
 9.extra krema ekle
 10.cikolata ekle
 11.hatasiz kul olmaz
-12.vscode.
+12.vscode k01
